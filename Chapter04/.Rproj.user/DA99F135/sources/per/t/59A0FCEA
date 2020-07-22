@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587059216884.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3330700040",
+    "id" : "59A0FCEA",
+    "lastKnownWriteTime" : 1587059243,
+    "last_content_update" : 1587059243356,
+    "path" : "C:/Users/inaee/Desktop/2020-1/빅데이터소프트웨어/Chapter04/pro6.R",
+    "project_path" : "pro6.R",
+    "properties" : {
+        "cursorPosition" : "14,6",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 17,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1587055786629.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2715915168",
+    "id" : "FCA47DD8",
+    "lastKnownWriteTime" : 1587056983,
+    "last_content_update" : 1587056983569,
+    "path" : "C:/Users/inaee/Desktop/2020-1/빅데이터소프트웨어/Chapter04/pro19.R",
+    "project_path" : "pro19.R",
+    "properties" : {
+        "cursorPosition" : "11,9",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 12,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
